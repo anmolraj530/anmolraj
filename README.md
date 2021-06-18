@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theanmolraj
+- 👋 Hi, I’m @hayanmolraj
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on YouTube
